@@ -1,0 +1,9 @@
+langdetect.detect
+
+pygtrans.translate
+
+NLTK.word_tokensize()
+NLTK.pos_tag()
+NLTK.WordNetLemmatizer.lemmatize()
+
+sklearn.svm和sklearn.naive_bayes 作对比
